@@ -111,8 +111,8 @@ function App() {
     } backdrop-blur-md border-b`}>
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-teal-500 bg-clip-text text-transparent">
-            DoubleVisuals
+          <div onClick={() => setCurrentPage('home')} className="cursor-pointer text-2xl font-bold bg-gradient-to-r from-blue-500 to-teal-500 bg-clip-text text-transparent hover:opacity-80 transition-opacity">
+          DoubleVisuals
           </div>
 
           {/* Desktop Navigation */}
