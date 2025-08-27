@@ -17,7 +17,7 @@ const works: VideoWork[] = [
   },
   {
     title: "Valify Video (Outdated)",
-    url: "https://youtube.com/embed/NFPkEvrvOq0",
+    url: "https://youtube.com/watch?v=NFPkEvrvOq0",
     type: 'Longform'
   },
   {
@@ -37,7 +37,7 @@ const experienceWorks = {
     {
       title: "WLG Esports Minimal Editing Short",
       url: "https://youtube.com/shorts/drSKuO0PwgQ",
-      embed: "https://www.youtube.com/embed/drSKuO0PwgQ"
+      embed: "https://youtube.com/shorts/drSKuO0PwgQ"
     },
     {
       title: "Coming Soon",
@@ -49,12 +49,12 @@ const experienceWorks = {
     {
       title: "WLG Esports Vlog (Minimal Edit)",
       url: "https://www.youtube.com/watch?v=fDumiklliks",
-      embed: "https://www.youtube.com/embed/fDumiklliks"
+      embed: "https://www.youtube.com/watch?v=fDumiklliks"
     },
     {
       title: "Valify Video (Outdated)",
-      url: "https://youtu.be/watch?v=NFPkEvrvOq0",
-      embed: "https://www.youtube.com/embed/NFPkEvrvOq0"
+      url: "https://youtu.com/watch?v=NFPkEvrvOq0",
+      embed: "https://youtube.com/watch?v=NFPkEvrvOq0"
     },
     {
       title: "Coming Soon",
