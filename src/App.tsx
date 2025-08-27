@@ -11,17 +11,17 @@ interface VideoWork {
 
 const works: VideoWork[] = [
   {
-    title: "Epic Shortform Edit",
+    title: "Fruity Short-Form Trial Reel",
     url: "https://x.com/VisualsByDouble/status/1948354589121474852",
     type: 'shortform'
   },
   {
-    title: "Cinematic Longform",
-    url: "https://youtu.be/fDumiklliks",
+    title: "Valify Video (Outdated)",
+    url: "https://youtu.be/watch?v=NFPkEvrvOq0",
     type: 'longform'
   },
   {
-    title: "FN Highlight Reel",
+    title: "Preview for @scoutfnr / @FruityINC (Seryx Style)",
     url: "https://x.com/VisualsByDouble/status/1912659231485964470",
     type: 'highlight'
   }
@@ -30,12 +30,12 @@ const works: VideoWork[] = [
 const experienceWorks = {
   shortform: [
     {
-      title: "Premium Short Edit",
+      title: "Fruity Short-Form Trial Video",
       url: "https://x.com/VisualsByDouble/status/1948354589121474852",
       embed: "https://x.com/VisualsByDouble/status/1948354589121474852"
     },
     {
-      title: "YouTube Short",
+      title: "WLG Esports Minimal Editing Short",
       url: "https://youtube.com/shorts/drSKuO0PwgQ",
       embed: "https://www.youtube.com/embed/drSKuO0PwgQ"
     },
@@ -47,13 +47,13 @@ const experienceWorks = {
   ],
   longform: [
     {
-      title: "Extended Cinematic",
-      url: "https://youtu.be/fDumiklliks",
+      title: "WLG Esports Vlog (Minimal Edit)",
+      url: "https://www.youtube.com/watch?v=fDumiklliks",
       embed: "https://www.youtube.com/embed/fDumiklliks"
     },
     {
-      title: "Long Form Content",
-      url: "https://youtu.be/NFPkEvrvOq0",
+      title: "Valify Video (Outdated)",
+      url: "https://youtu.be/watch?v=NFPkEvrvOq0",
       embed: "https://www.youtube.com/embed/NFPkEvrvOq0"
     },
     {
@@ -64,17 +64,17 @@ const experienceWorks = {
   ],
   highlights: [
     {
-      title: "FN Highlight #1",
+      title: "Preview for @scoutfnr / @FruityINC (Seryx Style)",
       url: "https://x.com/VisualsByDouble/status/1912659231485964470",
       embed: "https://x.com/VisualsByDouble/status/1912659231485964470"
     },
     {
-      title: "FN Highlight #2",
+      title: "Preview for @Zeroxakos (Seryx Style)",
       url: "https://x.com/VisualsByDouble/status/1911037832413536746",
       embed: "https://x.com/VisualsByDouble/status/1911037832413536746"
     },
     {
-      title: "FN Highlight #3",
+      title: "Preview for @SNMeSportsggs / @VaxotiaFN",
       url: "https://x.com/VisualsByDouble/status/1901332637161275776",
       embed: "https://x.com/VisualsByDouble/status/1901332637161275776"
     }
