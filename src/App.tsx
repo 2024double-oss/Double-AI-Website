@@ -13,17 +13,17 @@ const works: VideoWork[] = [
   {
     title: "Fruity Short-Form Trial Reel",
     url: "https://x.com/VisualsByDouble/status/1948354589121474852",
-    type: 'shortform'
+    type: 'Shortform'
   },
   {
     title: "Valify Video (Outdated)",
-    url: "https://youtu.be/watch?v=NFPkEvrvOq0",
-    type: 'longform'
+    url: "https://youtube.com/embed/NFPkEvrvOq0",
+    type: 'Longform'
   },
   {
-    title: "Preview for @scoutfnr / @FruityINC (Seryx Style)",
+    title: "Preview for @FruityINC (Seryx Style)",
     url: "https://x.com/VisualsByDouble/status/1912659231485964470",
-    type: 'highlight'
+    type: 'Fortnite Highlight'
   }
 ];
 
