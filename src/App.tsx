@@ -11,17 +11,17 @@ interface VideoWork {
 
 const works: VideoWork[] = [
   {
-    title: "Epic Shortform Edit",
+    title: "Fruity Short-Form Trial Reel",
     url: "https://x.com/VisualsByDouble/status/1948354589121474852",
     type: 'shortform'
   },
   {
-    title: "Cinematic Longform",
-    url: "https://youtu.be/fDumiklliks",
+    title: "Valify Video (Outdated)",
+    url: "https://youtu.be/watch?v=NFPkEvrvOq0",
     type: 'longform'
   },
   {
-    title: "FN Highlight Reel",
+    title: "Preview for @scoutfnr / @FruityINC (Seryx Style)",
     url: "https://x.com/VisualsByDouble/status/1912659231485964470",
     type: 'highlight'
   }
@@ -30,12 +30,12 @@ const works: VideoWork[] = [
 const experienceWorks = {
   shortform: [
     {
-      title: "Premium Short Edit",
+      title: "Fruity Short-Form Trial Video",
       url: "https://x.com/VisualsByDouble/status/1948354589121474852",
       embed: "https://x.com/VisualsByDouble/status/1948354589121474852"
     },
     {
-      title: "YouTube Short",
+      title: "WLG Esports Minimal Editing Short",
       url: "https://youtube.com/shorts/drSKuO0PwgQ",
       embed: "https://www.youtube.com/embed/drSKuO0PwgQ"
     },
@@ -47,13 +47,13 @@ const experienceWorks = {
   ],
   longform: [
     {
-      title: "Extended Cinematic",
-      url: "https://youtu.be/fDumiklliks",
+      title: "WLG Esports Vlog (Minimal Edit)",
+      url: "https://www.youtube.com/watch?v=fDumiklliks",
       embed: "https://www.youtube.com/embed/fDumiklliks"
     },
     {
-      title: "Long Form Content",
-      url: "https://youtu.be/NFPkEvrvOq0",
+      title: "Valify Video (Outdated)",
+      url: "https://youtu.be/watch?v=NFPkEvrvOq0",
       embed: "https://www.youtube.com/embed/NFPkEvrvOq0"
     },
     {
@@ -64,17 +64,17 @@ const experienceWorks = {
   ],
   highlights: [
     {
-      title: "FN Highlight #1",
+      title: "Preview for @scoutfnr / @FruityINC (Seryx Style)",
       url: "https://x.com/VisualsByDouble/status/1912659231485964470",
       embed: "https://x.com/VisualsByDouble/status/1912659231485964470"
     },
     {
-      title: "FN Highlight #2",
+      title: "Preview for @Zeroxakos (Seryx Style)",
       url: "https://x.com/VisualsByDouble/status/1911037832413536746",
       embed: "https://x.com/VisualsByDouble/status/1911037832413536746"
     },
     {
-      title: "FN Highlight #3",
+      title: "Preview for @SNMeSportsggs / @VaxotiaFN",
       url: "https://x.com/VisualsByDouble/status/1901332637161275776",
       embed: "https://x.com/VisualsByDouble/status/1901332637161275776"
     }
@@ -418,14 +418,14 @@ function App() {
             : 'bg-gray-50 text-gray-700 prose-headings:text-gray-900'
         }`}>
           <p className="text-xl leading-relaxed mb-6">
-            Hi, I'm Double – a passionate teenage video editor who lives and breathes visual storytelling. 
+            Hi, I'm Double, a passionate teenage video editor who lives and breathes visual storytelling. 
             What started as a hobby quickly evolved into a genuine expertise in transforming raw footage 
             into compelling narratives that captivate audiences.
           </p>
           
           <p className="text-lg leading-relaxed mb-6">
             My journey in video editing began years ago, and since then, I've honed my skills across 
-            multiple formats – from punchy shortform content that grabs attention in seconds, to 
+            multiple formats, from punchy shortform content that grabs attention in seconds, to 
             cinematic longform pieces that tell complete stories, to high-energy gaming highlights 
             that showcase the best moments.
           </p>
@@ -440,7 +440,7 @@ function App() {
           
           <p className="text-lg leading-relaxed">
             Every project I take on receives the same level of dedication and creative attention. 
-            I don't just edit videos – I craft experiences that resonate with your audience and 
+            I don't just edit videos, I craft experiences that resonate with your audience and 
             elevate your content above the noise. Let's work together to turn your ideas into 
             stunning visual reality.
           </p>
@@ -604,7 +604,7 @@ function App() {
         <p className={`text-lg italic ${
           isDarkMode ? 'text-gray-400' : 'text-gray-600'
         }`}>
-          "I can take your thoughts and turn them into life."
+          "Turning dreams into reality..."
         </p>
       </section>
     </div>
