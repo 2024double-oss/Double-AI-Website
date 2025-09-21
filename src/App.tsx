@@ -16,8 +16,8 @@ const works: VideoWork[] = [
     type: 'Shortform'
   },
   {
-    title: "Valify Video (Outdated)",
-    url: "https://youtube.com/watch?v=NFPkEvrvOq0",
+    title: "Spanos Long Form Video (Top 67 Hyped GR)",
+    url: "https://www.youtube.com/watch?v=ugH1krNzbdQ",
     type: 'Longform'
   },
   {
@@ -46,6 +46,11 @@ const experienceWorks = {
     }
   ],
   longform: [
+     {
+      title: " Spanos Long Form Video (Top 67 Hyped GR) ",
+      url: "https://www.youtube.com/watch?v=ugH1krNzbdQ",
+      embed: "https://www.youtube.com/watch?v=ugH1krNzbdQ"
+    },
     {
       title: "WLG Esports Vlog (Minimal Edit)",
       url: "https://www.youtube.com/watch?v=fDumiklliks",
@@ -56,11 +61,7 @@ const experienceWorks = {
       url: "https://youtu.com/watch?v=NFPkEvrvOq0",
       embed: "https://youtube.com/watch?v=NFPkEvrvOq0"
     },
-    {
-      title: "Coming Soon",
-      url: "",
-      embed: ""
-    }
+   
   ],
   highlights: [
     {
