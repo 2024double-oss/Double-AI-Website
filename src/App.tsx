@@ -11,13 +11,13 @@ interface VideoWork {
 
 const works: VideoWork[] = [
   {
-    title: "Fruity Short-Form Trial Reel",
-    url: "https://x.com/VisualsByDouble/status/1948354589121474852",
+    title: "iiisAndmaniii Short Form Reel",
+    url: "https://www.youtube.com/shorts/s97VTmWW8uU",
     type: 'Shortform'
   },
   {
-    title: "Spanos Long Form Video (Top 67 Hyped GR)",
-    url: "https://www.youtube.com/watch?v=ugH1krNzbdQ",
+    title: "Spanos Long Form Video",
+    url: "https://www.youtube.com/watch?v=D-wcfwlx_l0&t=503s&pp=ygUGc3Bhbm9z",
     type: 'Longform'
   },
   {
