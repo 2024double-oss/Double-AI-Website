@@ -52,9 +52,9 @@ const experienceWorks = {
       embed: "https://www.youtube.com/watch?v=D-wcfwlx_l0"
     },
     {
-      title: " Spanos Long Form Video (Top 67 Hyped GR) ",
-      url: "https://www.youtube.com/watch?v=ugH1krNzbdQ",
-      embed: "https://www.youtube.com/watch?v=ugH1krNzbdQ"
+      title: " Coming Soon... ",
+      url: "",
+      embed: ""
     },
     {
       title: "WLG Esports Vlog (Minimal Edit)",
