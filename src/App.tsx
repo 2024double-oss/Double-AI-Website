@@ -52,7 +52,7 @@ const experienceWorks = {
       embed: "https://www.youtube.com/watch?v=D-wcfwlx_l0"
     },
     {
-      title: "Επαιξα 1V1 με τον ‪@McpcmStavros‬...",
+      title: "Επαιξα 1V1 με τον @McpcmStavros...",
       url: "https://www.youtube.com/watch?v=ceCb8VJQLz8",
       embed: "https://www.youtube.com/watch?v=ceCb8VJQLz8"
     },
