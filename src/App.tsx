@@ -52,9 +52,9 @@ const experienceWorks = {
       embed: "https://www.youtube.com/watch?v=D-wcfwlx_l0"
     },
     {
-      title: " Coming Soon... ",
-      url: "",
-      embed: ""
+      title: "Επαιξα 1V1 με τον ‪@McpcmStavros‬...",
+      url: "https://www.youtube.com/watch?v=ceCb8VJQLz8",
+      embed: "https://www.youtube.com/watch?v=ceCb8VJQLz8"
     },
     {
       title: "WLG Esports Vlog (Minimal Edit)",
