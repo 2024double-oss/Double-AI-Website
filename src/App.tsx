@@ -40,9 +40,9 @@ const experienceWorks = {
       embed: "https://www.youtube.com/shorts/s97VTmWW8uU"
     },
     {
-      title: "WLG Esports Minimal Editing Short",
-      url: "https://youtube.com/shorts/drSKuO0PwgQ",
-      embed: "https://youtube.com/shorts/drSKuO0PwgQ"
+      title: "KostisMC - Guess the block",
+      url: "https://www.youtube.com/shorts/mvd-vbKaTaEQ",
+      embed: "https://www.youtube.com/shorts/mvd-vbKaTaE"
     }
   ],
   
