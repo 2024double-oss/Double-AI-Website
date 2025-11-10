@@ -30,9 +30,9 @@ const works: VideoWork[] = [
 const experienceWorks = {
   shortform: [
     {
-      title: "Fruity Short-Form Trial Video",
-      url: "https://x.com/VisualsByDouble/status/1948354589121474852",
-      embed: "https://x.com/VisualsByDouble/status/1948354589121474852"
+      title: "KostisMC - Guess the block MC Reel",
+      url: "https://www.youtube.com/shorts/_Zvr0IVXCd0",
+      embed: "https://www.youtube.com/shorts/_Zvr0IVXCd0"
     },
     {
       title: "iiisAndmaniii Short Form Reel",
@@ -44,7 +44,20 @@ const experienceWorks = {
       url: "https://youtube.com/shorts/drSKuO0PwgQ",
       embed: "https://youtube.com/shorts/drSKuO0PwgQ"
     }
+        {
+      title: "WLG Esports Vlog (Minimal Edit)",
+      url: "https://www.youtube.com/watch?v=fDumiklliks",
+      embed: "https://www.youtube.com/watch?v=fDumiklliks"
+    },
+      {
+      title: "WLG Esports Vlog (Minimal Edit)",
+      url: "https://www.youtube.com/watch?v=fDumiklliks",
+      embed: "https://www.youtube.com/watch?v=fDumiklliks"
+    },
+
+
   ],
+  
   longform: [
          {
       title: "Spanos Long Form Video",
@@ -61,6 +74,7 @@ const experienceWorks = {
       url: "https://www.youtube.com/watch?v=fDumiklliks",
       embed: "https://www.youtube.com/watch?v=fDumiklliks"
     },
+    
 
    
   ],
