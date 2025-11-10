@@ -44,18 +44,6 @@ const experienceWorks = {
       url: "https://youtube.com/shorts/drSKuO0PwgQ",
       embed: "https://youtube.com/shorts/drSKuO0PwgQ"
     }
-        {
-      title: "WLG Esports Vlog (Minimal Edit)",
-      url: "https://www.youtube.com/watch?v=fDumiklliks",
-      embed: "https://www.youtube.com/watch?v=fDumiklliks"
-    },
-      {
-      title: "WLG Esports Vlog (Minimal Edit)",
-      url: "https://www.youtube.com/watch?v=fDumiklliks",
-      embed: "https://www.youtube.com/watch?v=fDumiklliks"
-    },
-
-
   ],
   
   longform: [
