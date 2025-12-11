@@ -58,9 +58,9 @@ const experienceWorks = {
       embed: "https://www.youtube.com/watch?v=ceCb8VJQLz8"
     },
     {
-      title: "WLG Esports Vlog (Minimal Edit)",
-      url: "https://www.youtube.com/watch?v=fDumiklliks",
-      embed: "https://www.youtube.com/watch?v=fDumiklliks"
+      title: "Skiourakic Bingo Challenge"
+      url: "https://www.youtube.com/watch?v=oVif9j-DyrQ",
+      embed: "https://www.youtube.com/watch?v=oVif9j-DyrQ"
     },
     
 
