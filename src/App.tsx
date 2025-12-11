@@ -58,7 +58,7 @@ const experienceWorks = {
       embed: "https://www.youtube.com/watch?v=ceCb8VJQLz8"
     },
     {
-      title: "Skiourakic Bingo Challenge"
+      title: "Skiourakic Bingo Challenge",
       url: "https://www.youtube.com/watch?v=oVif9j-DyrQ",
       embed: "https://www.youtube.com/watch?v=oVif9j-DyrQ"
     },
